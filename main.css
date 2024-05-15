@@ -56,4 +56,8 @@ body{
 .wrapper{
     min-width: 1200px;
     margin: 0 auto;
+     position: relative;
+    z-index: ;
+    background-color: #fff;
+}
 }
